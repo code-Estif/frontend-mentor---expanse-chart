@@ -21,23 +21,6 @@ A responsive and interactive expenses chart component built with HTML, CSS, and 
 - **JavaScript (Vanilla)** - Dynamic chart rendering, data fetching, interactivity
 - **Google Fonts** - DM Sans font family
 
-## Project Structure
-
-expenses-chart-component-main/
-│
-├── index.html          # Main HTML structure
-├── style.css           # All styling and responsive design
-├── script.js           # JavaScript functionality
-├── data.json           # Chart data source
-├── images/             # Images and assets
-│   ├── logo.svg
-│   └── favicon-32x32.png
-├── design/             # Design reference images
-│   ├── desktop-design.jpg
-│   ├── mobile-design.jpg
-│   └── active-states.jpg
-└── README.md           # This file
-
 ## Getting Started
 
 ### Prerequisites
