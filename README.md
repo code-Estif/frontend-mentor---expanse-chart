@@ -23,10 +23,6 @@ A responsive and interactive expenses chart component built with HTML, CSS, and 
 
 ## Getting Started
 
-### Prerequisites
-
-No special prerequisites needed! Just open the `index.html` file in a modern web browser.
-
 ### Installation
 
 1. Clone or download this repository
@@ -92,13 +88,6 @@ function getCurrentDay() {
 ### Interactive Tooltips
 
 Hover tooltips show exact spending amounts with smooth animations and proper positioning above each bar.
-
-## Browser Support
-
-- Chrome (latest)
-- Firefox (latest)
-- Safari (latest)
-- Edge (latest)
 
 ## Responsive Breakpoints
 
