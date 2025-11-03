@@ -60,9 +60,7 @@ A responsive and interactive expenses chart component built with HTML, CSS, and 
 - **Mobile**: 375px
 - **Desktop**: 1440px
 - **Content Max Width**: 540px
-
-## Key Features Implementation
-
+  
 ### Dynamic Chart Rendering
 
 The chart bars are dynamically generated from the `data.json` file:
