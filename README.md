@@ -118,4 +118,4 @@ Estif
 
 ---
 
-⭐ If you find this project helpful, please give it a star!
+⭐If you find this project helpful, please give it a star!
